@@ -6,6 +6,9 @@
 # customtkinter
 
 
+# ------------- still under developement, a lot of bugs ----------------------
+
+
 # a library used to graph dot plots/diagrams
 import graphviz
 from graphviz import Digraph
